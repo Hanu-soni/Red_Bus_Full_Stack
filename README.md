@@ -53,7 +53,8 @@ To deploy this project run
 
 ## 🚀 About Me
 I'm a full stack developer...
-- Write a mail on :rkeshri522@gmail.com
+- Write a mail on :pankajsoni93444@gmail.com
+- https://hanu-soni.github.io/Portfolio/
 
 
 ## Starting the App
