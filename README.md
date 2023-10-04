@@ -7,7 +7,7 @@ It is a MERN Stack Web Application which is used to book Bus Tickets from any lo
 - Book the Seats from anywhere to anywhere of your prefered choice
 - Fetch all the bus Data stored in the MongoDB Atlas Database to the frontend and show the specific buses
 - Saving the userDetails and ticket details into MongoDB Atlas Database
-# Chat-App-Mern
+
 
 
 ## Features
